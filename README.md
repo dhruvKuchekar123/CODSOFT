@@ -1,1 +1,1 @@
-This is a calcilator application 
+This is a calculator application 
